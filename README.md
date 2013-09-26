@@ -36,4 +36,9 @@ The app provides a beautiful and easy to use interface with cover arts, backdrop
 * ...
 
 **FAQs**
-...
+* Why is my video quality poor?
+
+    The default streaming quality was set low to prevent any streaming issues, based on your network bandwidth you can choose higher stream quality under settings > General Settings > Stream Settings. For local wifi, you can try the highest quality.
+* Can I have a local ip and a remote ip?
+
+    Yes, under settings > Server Configuration, Add your local and remote ip. Right now, the switch between the ips has to be manual but I plan on automatic switching on future releases.
