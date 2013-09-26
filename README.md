@@ -25,8 +25,6 @@ The app provides a beautiful and easy to use interface with cover arts, backdrop
 
 [Remote](https://www.youtube.com/watch?v=mZZkUqn1GxU)
 
-[Pause on Call](https://www.youtube.com/watch?v=2UGYW-u-WoQ&feature=youtu.be)
-
 **Known Issues/Future Enhancements:**
 * iPad compatible app
 * no video time progress bar
