@@ -34,3 +34,6 @@ The app provides a beautiful and easy to use interface with cover arts, backdrop
 * Additional server controls
 * Performance improvements on larger media setup
 * ...
+
+**FAQs**
+...
