@@ -27,10 +27,10 @@ The app provides a beautiful and easy to use interface with cover arts, backdrop
 
 [Pause on Call](https://www.youtube.com/watch?v=2UGYW-u-WoQ&feature=youtu.be)
 
-known Issues/Future Enhancements:
-iPad compatible app
-no video time progress bar
-Landscape not optimized for all pages
-Additional server controls
-Performance improvements on larger media setup
-...
+**Known Issues/Future Enhancements:**
+* iPad compatible app
+* no video time progress bar
+* Landscape not optimized for all pages
+* Additional server controls
+* Performance improvements on larger media setup
+* ...
